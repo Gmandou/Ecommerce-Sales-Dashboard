@@ -1,4 +1,4 @@
-# Ecommerce Sales Dashboard (Excel)
+# Ecommerce Sales Dashboard Excel Project
 
 ## What this is
 
